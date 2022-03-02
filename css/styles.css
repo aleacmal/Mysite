@@ -4,6 +4,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
+  width: 100%;
 }
 
 h1 {
@@ -149,9 +150,6 @@ a:hover {
 }
 
 @media only screen and (max-width: 800px) {
-  body {
-    width: 100%;
-  }
   .top-container {
     width: 100%;
   }
